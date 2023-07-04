@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
 
-Own (not optimised) hash and encryption algorithms written in numpy
+Not optimized hash and encryption algorithms written in numpy
 
 
 ## Algorithms
@@ -12,4 +12,3 @@ Own (not optimised) hash and encryption algorithms written in numpy
 - SHA1
 - MD5
 - BASE64
-
