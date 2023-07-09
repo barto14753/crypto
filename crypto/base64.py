@@ -15,7 +15,7 @@ class Base64:
 
     def __init__(self, data):
         self.data = data
-        self.encoded_data = base64.encode(data)
+        self.encoded_data = Base64.encode(data)
 
     def data(self):
         return self.data
